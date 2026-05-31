@@ -1,0 +1,50 @@
+{
+  "SVM + TF-IDF": {
+    "accuracy": 59.41,
+    "precision": 56.81,
+    "recall": 52.66,
+    "f1": 53.53
+  },
+  "Naive Bayes + TF-IDF": {
+    "accuracy": 58.18,
+    "precision": 61.25,
+    "recall": 47.08,
+    "f1": 46.91
+  },
+  "Random Forest + TF-IDF": {
+    "accuracy": 57.66,
+    "precision": 55.53,
+    "recall": 49.71,
+    "f1": 50.4
+  },
+  "SVM + Word2Vec": {
+    "accuracy": 53.43,
+    "precision": 53.52,
+    "recall": 40.17,
+    "f1": 36.53
+  },
+  "Naive Bayes + Word2Vec": {
+    "accuracy": 44.07,
+    "precision": 42.7,
+    "recall": 42.73,
+    "f1": 42.12
+  },
+  "Random Forest + Word2Vec": {
+    "accuracy": 51.45,
+    "precision": 46.51,
+    "recall": 42.23,
+    "f1": 41.77
+  },
+  "Logistic Regression + TF-IDF": {
+    "accuracy": 60.16,
+    "precision": 58.6,
+    "recall": 52.73,
+    "f1": 53.78
+  },
+  "Logistic Regression + Word2Vec": {
+    "accuracy": 53.95,
+    "precision": 51.36,
+    "recall": 43.27,
+    "f1": 42.41
+  }
+}

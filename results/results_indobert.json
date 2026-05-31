@@ -1,0 +1,21 @@
+{
+  "model": "indobenchmark/indobert-base-p1",
+  "fine_tuning": {
+    "max_length": 128,
+    "batch_size": 16,
+    "learning_rate": 2e-05,
+    "epochs": 3,
+    "seed": 42,
+    "split": "70:30 stratified"
+  },
+  "metrics_percent": {
+    "accuracy": 69.40,
+    "precision": 68.13,
+    "recall": 67.66,
+    "f1": 67.88
+  },
+  "confusion_matrix": {
+    "order": ["Negatif", "Netral", "Positif"],
+    "matrix": [[498, 227, 82], [211, 1144, 171], [53, 198, 494]]
+  }
+}

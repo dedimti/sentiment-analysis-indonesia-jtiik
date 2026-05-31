@@ -1,0 +1,10 @@
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+gensim>=4.3
+Sastrawi>=1.0.1
+matplotlib>=3.6
+# Untuk notebook IndoBERT (jalankan di Google Colab dengan GPU):
+# transformers==4.44.2
+# datasets==2.21.0
+# torch
