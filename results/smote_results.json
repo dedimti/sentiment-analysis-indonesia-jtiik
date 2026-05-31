@@ -1,0 +1,26 @@
+{
+  "Logistic Regression": {
+    "accuracy": 56.07,
+    "precision": 53.62,
+    "recall": 54.06,
+    "f1": 53.8
+  },
+  "SVM": {
+    "accuracy": 53.82,
+    "precision": 51.59,
+    "recall": 52.13,
+    "f1": 51.75
+  },
+  "Naive Bayes": {
+    "accuracy": 54.8,
+    "precision": 53.36,
+    "recall": 54.45,
+    "f1": 53.4
+  },
+  "Random Forest": {
+    "accuracy": 56.2,
+    "precision": 52.87,
+    "recall": 50.96,
+    "f1": 51.52
+  }
+}

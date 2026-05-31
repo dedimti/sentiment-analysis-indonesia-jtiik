@@ -8,3 +8,4 @@ matplotlib>=3.6
 # transformers==4.44.2
 # datasets==2.21.0
 # torch
+imbalanced-learn>=0.11
